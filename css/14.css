@@ -1,0 +1,11 @@
+input {
+	margin: 20px;
+	height: 43px;
+	width: 162px;
+	background: linear-gradient(#FFB8D8 0%,#FFD8EA 45%, #FFD8EA 55%, #FFB8D8 100%);
+	border-radius: 30px;
+	border: 4px double white;
+	box-shadow: 0 0 2px 2px #E4E4E4;
+	font-size: 20px;
+	letter-spacing: 0.2px;
+}
